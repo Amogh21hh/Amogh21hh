@@ -14,6 +14,5 @@ Immediate start
 ### Stack
 Python · R · SQL · Advanced Excel / Financial Modelling · Power BI · ML (LogReg, RF, XGBoost) · 
 SHAP/LIME
-amoghmallikarjun0321@gmail.com · amogh-h-h-portfolio.vercel.app · LinkedIn: amogh-hh-34129a1b9
-- ⚡ Fun fact: ...
--->
+amoghmallikarjun0321@gmail.com · [amogh-h-h-portfolio.vercel.app](https://amogh-h-h-portfolio.vercel.app/) · LinkedIn: [amogh-hh-34129a1b9](https://www.linkedin.com/in/amogh-hh-34129a1b9/)
+
